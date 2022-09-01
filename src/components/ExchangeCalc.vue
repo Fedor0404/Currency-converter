@@ -29,7 +29,7 @@
     </div>
     <div class="flex">
       <div class="flex border-2 rounded ml-5 w-40 truncate">
-        <div class="m-auto w-auto">
+        <div class="m-auto w-auto cursor-default select-none">
           {{ valueFinal }}
         </div>
       </div>
